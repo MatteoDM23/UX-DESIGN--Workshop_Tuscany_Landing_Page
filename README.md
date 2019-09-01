@@ -1,4 +1,4 @@
-# WEBPAGE--Workshop_Tuscany
+# Landing Page: Photography Workshop in southern Tuscany
 This is a UI prototype of a landing page built for a photography workshop in central Italy. The page has been designed using 
 <b><a href="https://www.figma.com/">Figma</a></b>.
 </br></br>
