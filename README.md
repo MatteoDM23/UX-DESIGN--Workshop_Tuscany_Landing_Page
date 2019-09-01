@@ -1,4 +1,4 @@
 # WEBPAGE--Workshop_Tuscany
-Landing Page about a photography workshop booking info
-Open the file "Workshop_Landing_Page.pdf" to display the landing page UI prototype.
+Landing Page of a photography workshop set in central Italy. This is merely a UI prototype built using <b>Figma</b>.</br>
+Simply open the above file "Workshop_Landing_Page.pdf" to display the page.
 
